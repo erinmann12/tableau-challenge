@@ -8,7 +8,13 @@ For this project, I was tasked with creating a series of Tableau visualizations 
 
 Female riders spend a significant amount of time on Citi Bikes compared to male riders. However, "unknown" riders closely follow behind female riders. The unknown category could be created by users failing to report their gender. It is clear from the Trip Duration by Gender visualization that a majority of riders are customers and not subscribers, so it could take more effort than a customer is willing to put in to record their gender. Other people may not identify as male or female, thus skewing male/female comparisons like this one. 
 
+![](https://github.com/erinmann12/tableau-challenge/blob/main/Static%20Images/Trip%20Duration%20by%20Gender.PNG)
+
 The top station to start a journey with a Citi Bike is Grove Street Path's station, as shown in the Top Starting Stations visualization. This station is a major public transportation hub with three different Port Authority Trans-Hudson paths going through it, so it could be assumed that many people who come in on the PATH pick up a bike and begin their journey from there.  The station is also near Washington Square Park, one of New York City's iconic parks, which is known as a great meeting place and cultural activity center as well as being two miles from Time Square. 
 
+![](https://github.com/erinmann12/tableau-challenge/blob/main/Static%20Images/Top%20Starting%20Stations.PNG)
+
 A majority of riders in the past three months spent less than 2,000 seconds (or about 33 minutes) on a bike.   If someone is biking at a slow moderate pace of 12 miles per hour, they can get about six miles in that time, which could get the rider to his/her destination in that time. The 35-year-old woman who rode for over 11,000 seconds (or about 3 hours) could be an outlier, but she could have used it for exercise or chose not to ride it the entire time she had it out, so the data was included in the visualization. It is unsurprising to find as rider's age increases, their time on the bike decreases. Most riders over the age of 60 don't spend more than 1,410 seconds (or 23 minutes) on the bike. 
+
+![](https://github.com/erinmann12/tableau-challenge/blob/main/Static%20Images/Trip%20Duration%20by%20Age.PNG)
 
