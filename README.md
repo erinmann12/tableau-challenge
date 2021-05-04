@@ -20,7 +20,13 @@ A majority of riders in the past three months spent less than 2,000 seconds (or 
 
 The most popular ending stations are located around Grove St PATH, the most popular starting station. Popular ending stations are also at light rail or PATH stations. This is likely because people bike throughout the city and then end their journeys where they can jump on the public transportation system in order to go back home. The Sip avenue station is also popular because of the PATH station down the road. 
 
+![](https://github.com/erinmann12/tableau-challenge/blob/main/Static%20Images/ending%20station.PNG)
+
 Bike 37747 was ridden on average much longer (97 average hours) than any of the other bikes, so it will most likely need maintenance more often. According to the BikeID Duration map, in the past three months, bikes ridden the most were ridden between 2 and 5 hours. 
 
+![](https://github.com/erinmann12/tableau-challenge/blob/main/Static%20Images/bikeid%20duration.PNG)
+
 In the past three months, more men than women have ridden on CitiBikes. Both gender groups reached their peak on January 10, 2021, before trickling off to 140 male and 51 female riders at the end of March. Temperatures in New York City were higher than usual in January, leading more people to spend time outside. Also, during the coronavirus pandemic, fewer people wanted to use public transportation and be inside with a large group of people. In fact, New York City saw a spike in COVID-19 cases, so it would make sense that a corresponding peak is found in the Citi Bike data. 
+
+![](https://github.com/erinmann12/tableau-challenge/blob/main/Static%20Images/riders%20over%20time.PNG)
 
